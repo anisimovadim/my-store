@@ -51,19 +51,22 @@ src/
   ├── entities/         # Сущности: Product (API, hooks), Cart (Zustand store)
   ├── shared/           # Shared: API инстанс, Skeleton компоненты
 
-🚀 Быстрый старт
+```
+---
+## 🚀 Быстрый старт
+* **Клонируйте репозиторй:**
+```text
+git clone https://github.com/anisimovadim/my-store.git
+```
 
-    Клонируйте репозиторий:
-    Bash
+* **Установите зависимости:**
+```text
+npm install
+```
 
-    git clone [https://github.com/ваш-логин/ваш-репозиторий.git](https://github.com/ваш-логин/ваш-репозиторий.git)
+* **Запустите проект в режиме разработки:**
+```text
+npm run dev
+```
+---
 
-    Установите зависимости:
-    Bash
-
-    npm install
-
-    Запустите проект в режиме разработки:
-    Bash
-
-    npm run dev
