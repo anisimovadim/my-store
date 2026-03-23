@@ -54,7 +54,7 @@ src/
 ```
 ---
 ## 🚀 Быстрый старт
-* **Клонируйте репозиторй:**
+* **Клонируйте репозиторий:**
 ```text
 git clone https://github.com/anisimovadim/my-store.git
 ```
@@ -68,5 +68,4 @@ npm install
 ```text
 npm run dev
 ```
----
 
